@@ -73,7 +73,6 @@ class MainActivity : AppCompatActivity() {
         barra_Progresso.visibility = View.GONE
         listaRepositories.visibility = View.GONE
         noRepoFound_Text.visibility = View.GONE
-        noRepoFound_Text.visibility = View.GONE
         noConnection_Wifi.visibility = View.VISIBLE
         noConnection_Text.visibility = View.VISIBLE
     }
