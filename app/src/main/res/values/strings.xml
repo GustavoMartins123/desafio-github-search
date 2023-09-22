@@ -2,4 +2,8 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="string_NoWifi">Conexão indisponível :(</string>
+    <string name="string_Response_Error">Algo deu errado, tente novamente</string>
+    <string name="string_NoText">Preencha o campo</string>
+    <string name="string_NoRepo">Desculpe, nada encontrado</string>
 </resources>
